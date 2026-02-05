@@ -97,6 +97,7 @@ figures/        Figures displayed in this README
 ```
 source("scripts/softcode_final.R")
 run_arm_bias_pipeline("TCGA_KIRC")
+To analyse a different TCGA cohort, replace `"TCGA-KIRC"` with the name of the corresponding cancer-specific data directory (e.g. `"TCGA_BRCA"`, `"TCGA_LUAD"`, `"TCGA_COAD"`).
 run_all_cancers()
 ```
 
