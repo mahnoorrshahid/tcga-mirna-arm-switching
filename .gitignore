@@ -1,0 +1,12 @@
+# Large / generated files
+data/
+results/
+
+# R junk
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS junk
+.DS_Store
+Thumbs.db
