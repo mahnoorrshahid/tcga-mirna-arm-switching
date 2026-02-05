@@ -6,6 +6,8 @@ results/
 .Rhistory
 .RData
 .Rproj.user/
+scripts/softcode final.R
+
 
 # OS junk
 .DS_Store
