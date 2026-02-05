@@ -96,7 +96,7 @@ figures/        Figures displayed in this README
 
 ```
 source("scripts/softcode_final.R")
-run_arm_bias_pipeline("TCGA-KIRC")
+run_arm_bias_pipeline("TCGA_KIRC")
 run_all_cancers()
 ```
 
